@@ -1,0 +1,3 @@
+SELECT name, 
+    IF(age == 16)
+FROM students;
